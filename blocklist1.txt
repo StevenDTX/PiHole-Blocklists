@@ -1,0 +1,3 @@
+## AdroidTV Ads
+androidtvwatsonfe-pa.googleapis.com
+androidtvchannels-pa.googleapis.com
