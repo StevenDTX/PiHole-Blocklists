@@ -1,3 +1,12 @@
 ## AdroidTV Ads
 androidtvwatsonfe-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
+
+## LG
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
+rdl.lgtvcommon.com
+recommend.lgtvcommon.com
+lgsmartad.com
