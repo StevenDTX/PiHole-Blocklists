@@ -1,12 +1,37 @@
-## AdroidTV Ads
+## AndroidTV Ads
 androidtvwatsonfe-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
 
 ## LG
+#ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
+#us.lgtvsdp.com # #117
+ad.lgappstv.com
+aic-ngfts.lge.com
 cdpbeacon.lgtvcommon.com
 cdpsvc.lgtvcommon.com
 homeprv.lgtvcommon.com
+ibis.lgappstv.com
+jp.info.lgsmartad.com
+jp.lgtvsdp.com
+jp.rdx2.lgtvsdp.com
+lgad.cjpowercast.com.edgesuite.net
+lgsmartad.com
 nudge.lgtvcommon.com
 rdl.lgtvcommon.com
 recommend.lgtvcommon.com
-lgsmartad.com
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.cdpbeacon.lgtvcommon.com
+us.cdpsvc.lgtvcommon.com
+us.homeprv.lgtvcommon.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgsmartad.com
+us.nudge.lgtvcommon.com
+us.rdl.lgtvcommon.com
+us.rdx2.lgtvsdp.com
+us.recommend.lgtvcommon.com
+us.service.lgtvcommon.com
+yumenetworks.com
