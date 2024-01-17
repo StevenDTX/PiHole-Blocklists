@@ -1,7 +1,3 @@
-## unifi 
-.test
-*.test
-
 ## AndroidTV Ads
 androidtvwatsonfe-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
