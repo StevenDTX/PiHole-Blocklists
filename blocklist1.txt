@@ -1,3 +1,6 @@
+## TLDs
+\.(cn|ru|kp|in|pk|af|ir|iq|sy|jo|sa|ye|om|ae|uz|tm|kg|ne|ro|bg|ua|by|mx|tr|eg|co|ve|ec|ni|cu|bd|np|tj|kz|ge|az|hk)$
+
 ## AndroidTV Ads
 androidtvwatsonfe-pa.googleapis.com
 androidtvchannels-pa.googleapis.com
