@@ -35,3 +35,11 @@ us.rdx2.lgtvsdp.com
 us.recommend.lgtvcommon.com
 us.service.lgtvcommon.com
 yumenetworks.com
+
+## BambuLabe printer
+public-cdn.bblmw.com
+makerworld.bblmw.com
+event.bblmw.com
+e.bambulab.com
+us.mqtt.bambulab.com
+api.bambulab.com
