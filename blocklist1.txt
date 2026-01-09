@@ -43,3 +43,8 @@ yumenetworks.com
 #e.bambulab.com
 #us.mqtt.bambulab.com
 #api.bambulab.com
+
+## Plex
+metrics.plex.tv
+ads.plex.tv
+ad.plex.tv
