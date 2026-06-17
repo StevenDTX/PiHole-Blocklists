@@ -5,6 +5,11 @@ androidtvchannels-pa.googleapis.com
 ## LG
 #ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
 #us.lgtvsdp.com # #117
+snu.lge.com
+su.lge.com
+su-ssl.lge.com
+lge.com
+lgappstv.com
 ad.lgappstv.com
 aic-ngfts.lge.com
 cdpbeacon.lgtvcommon.com
@@ -48,3 +53,11 @@ yumenetworks.com
 metrics.plex.tv
 ads.plex.tv
 ad.plex.tv
+
+## Denon
+skyegloup.com
+firmware.denon.jp
+firmware.denon.com
+
+
+
